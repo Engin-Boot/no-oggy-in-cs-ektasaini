@@ -7,4 +7,4 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Solution
 
-The code works according to the intention. Made it succeed !!
+The code works according to the intention.
