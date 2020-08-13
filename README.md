@@ -12,4 +12,4 @@ Thus,this program intends to remove strings containing 'oggy' from a list of str
 
 In c# we cannot remove elements from a list while iterating through it.
 One possible solution is to iterate backwards
-and then we can call 'RemoveAt' method for removing elements.
+and then call removeat method.
