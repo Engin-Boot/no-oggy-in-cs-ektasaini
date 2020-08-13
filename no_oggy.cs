@@ -5,6 +5,7 @@ class NoOggyChecker
 {
   static void RemoveOggy(List<string> names)
   {
+    
    for (int i = names.Count-1; i>=0; i--) {
       if (names[i].Length>=4){
            if (names[i].Substring(0,4).Equals("oggy")){
